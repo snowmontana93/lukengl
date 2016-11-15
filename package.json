@@ -1,0 +1,26 @@
+{
+  "name": "lukengl",
+  "version": "0.0.1",
+  "description": "An OpenGL/SDL wrapper for NodeJS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snowmontana93/lukengl.git"
+  },
+  "keywords": [
+    "OpenGL",
+    "SDL",
+    "win32",
+    "Windows",
+    "Linux"
+  ],
+  "author": "Luke Skywalker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snowmontana93/lukengl/issues"
+  },
+  "homepage": "https://github.com/snowmontana93/lukengl#readme"
+}
